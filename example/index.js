@@ -1,5 +1,6 @@
 "use strict";
 
-const localIpAddress = require("../lib");
+const localIpAddress = require("../lib")
 
-console.log(localIpAddress());
+console.log(localIpAddress())
+// => "192.168.0.133"
